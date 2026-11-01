@@ -17,6 +17,23 @@ Description: Desktop client for gomuks -- a Matrix client
 
 Package: pinger
 Architecture: amd64
+Version: 0.20
+Priority: optional
+Section: net
+Maintainer: Pinger <pinger@localhost>
+Depends: libgtk-4-1, libwebkitgtk-6.0-4
+Filename: pool/main/Pinger-0.20-linux-amd64.deb
+Size: 10063906
+MD5sum: a81cd465bd7afa416b7d22f8b8aa5ab8
+SHA1: 88482b78638212d759edd8a274f274f424aad480
+SHA256: 58db88c928f642543ed73e822674ea7d458a41e2c24a2423550b2ae2e3d5f0a1
+SHA512: e95aa45472741cde401cfa414255c72bd0225d3a88c5311d526055bca0b81f49632cf68923ebe7214b888d202367ded53e2c6e696b52b3954a5dbb7fbc3444fb
+Description: Desktop client for gomuks -- a Matrix client
+ Pinger is a desktop client for gomuks, a Matrix client with
+ SQLite caching and media storage.
+
+Package: pinger
+Architecture: amd64
 Version: 0.1.7
 Priority: optional
 Section: net
